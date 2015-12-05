@@ -40,6 +40,6 @@ At the time of writing this, the bot solved **92** of **156** problems, with the
 
 ![ditribution](https://raw.githubusercontent.com/ad0/4clojure-solving-bot/master/resources/4clojurebot-results.png)
 
-I guess that more patterns can be learned to solve more exercises (especially by exploiting easy parsing capabilities of lisp-like langages like clojure), but, well, the PoC is here.
+I guess that more patterns can be learned to solve more exercises (especially by exploiting parsing power of lisp-like langages like clojure), but, well, the PoC is here.
 
 I understand that there's no point of cheating on this kind of challenges site. The goal is to learn the clojure langage. Anyway, I wrote this bot using clojure!
